@@ -1,0 +1,6 @@
+use location first 2 number and sort by that ditrict 
+
+
+add column called tlump comment(put next to Location Amount,to right of)
+
+
